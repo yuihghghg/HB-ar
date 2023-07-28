@@ -73,21 +73,7 @@ AZY["8"]["TextSize"] = 29;
 AZY["8"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 AZY["8"]["Size"] = UDim2.new(0.8902860283851624, 0, 0.6482642889022827, 0);
 AZY["8"]["Text"] = [[亲爱的 User,
-
-
-
-
-是的，您没看错，这是一个HB的SZ注入器
-
-
-如果您感兴趣，请加入我们的群组:
-
-
-4 7 2 1 8 1 1 9 0
-
-
-set,
-感谢您的使用]];
+]];
 AZY["8"]["Name"] = [[Text]];
 AZY["8"]["BackgroundTransparency"] = 1;
 AZY["8"]["Position"] = UDim2.new(0.04280221089720726, 0, 0.14032021164894104, 0);
@@ -100,7 +86,7 @@ AZY["9"] = Instance.new("LocalScript", AZY["8"]);
 AZY["a"] = Instance.new("TextButton", AZY["7"]);
 AZY["a"]["TextWrapped"] = true;
 AZY["a"]["TextScaled"] = true;
-AZY["a"]["BackgroundColor3"] = Color3.fromRGB(0, 255, 0);
+AZY["a"]["BackgroundColor3"] = Color3.fromRGB(255, 0, 0);
 AZY["a"]["TextSize"] = 28;
 AZY["a"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
 AZY["a"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
