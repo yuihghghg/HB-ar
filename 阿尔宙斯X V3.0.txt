@@ -72,13 +72,13 @@ AZY["8"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]]
 AZY["8"]["TextSize"] = 29;
 AZY["8"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 AZY["8"]["Size"] = UDim2.new(0.8902860283851624, 0, 0.6482642889022827, 0);
-AZY["8"]["Text"] = [[Dear User,
+AZY["8"]["Text"] = [[亲爱的使用者,
 
 欢迎使用HB注入器
 
-请加入我们的群组
+请加入我们的群组:
 
-472181190
+472181190，
 ]];
 AZY["8"]["Name"] = [[Text]];
 AZY["8"]["BackgroundTransparency"] = 1;
@@ -162,7 +162,7 @@ AZY["15"] = Instance.new("ImageLabel", AZY["11"]);
 AZY["15"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
 AZY["15"]["ImageTransparency"] = 1;
 AZY["15"]["Visible"] = false;
-AZY["15"]["Image"] = [[rbxassetid://14174128141]];
+AZY["15"]["Image"] = [[rbxassetid://14222798840]];
 AZY["15"]["Size"] = UDim2.new(0.09526176750659943, 0, 0.27649006247520447, 0);
 AZY["15"]["BackgroundTransparency"] = 1;
 AZY["15"]["Position"] = UDim2.new(0.4423459470272064, 0, 0.36092716455459595, 0);
@@ -219,7 +219,7 @@ AZY["1c"]["CornerRadius"] = UDim.new(0, 14);
 -- StarterGui.ArceusXV3.MainUI.MainFrame.Panel.Logo
 AZY["1d"] = Instance.new("ImageLabel", AZY["1b"]);
 AZY["1d"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
-AZY["1d"]["Image"] = [[rbxassetid://12564267060]];
+AZY["1d"]["Image"] = [[rbxassetid://14222798840]];
 AZY["1d"]["Size"] = UDim2.new(0.05029655620455742, 0, 0.9125484824180603, 0);
 AZY["1d"]["Name"] = [[Logo]];
 AZY["1d"]["BackgroundTransparency"] = 1;
@@ -234,7 +234,7 @@ AZY["1e"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]
 AZY["1e"]["TextSize"] = 85;
 AZY["1e"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 AZY["1e"]["Size"] = UDim2.new(0.1371736377477646, 0, 0.6307170391082764, 0);
-AZY["1e"]["Text"] = [[Arceus X]];
+AZY["1e"]["Text"] = [[HB注入器]];
 AZY["1e"]["Name"] = [[TextLogo]];
 AZY["1e"]["BackgroundTransparency"] = 1;
 AZY["1e"]["Position"] = UDim2.new(0.4679349362850189, 0, 0.16660596430301666, 0);
@@ -246,7 +246,7 @@ AZY["1f"]["MaxTextSize"] = 25;
 -- StarterGui.ArceusXV3.MainUI.MainFrame.Panel.Close
 AZY["20"] = Instance.new("ImageButton", AZY["1b"]);
 AZY["20"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
-AZY["20"]["Image"] = [[rbxassetid://14174128141]];
+AZY["20"]["Image"] = [[rbxassetid://14222798840]];
 AZY["20"]["Size"] = UDim2.new(0.06670181453227997, 0, 1, 0);
 AZY["20"]["Name"] = [[Close]];
 AZY["20"]["Position"] = UDim2.new(0.9171510338783264, 0, 0, 0);
@@ -259,9 +259,9 @@ AZY["21"] = Instance.new("LocalScript", AZY["20"]);
 -- StarterGui.ArceusXV3.MainUI.MainFrame.Panel.Expand
 AZY["22"] = Instance.new("ImageButton", AZY["1b"]);
 AZY["22"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
-AZY["22"]["Image"] = [[rbxassetid://14174128141]];
+AZY["22"]["Image"] = [[rbxassetid://14222798840]];
 AZY["22"]["Size"] = UDim2.new(0.06901533156633377, 0, 1, 0);
-AZY["22"]["Name"] = [[Expand]];
+AZY["22"]["Name"] = [[HB]];
 AZY["22"]["Position"] = UDim2.new(0.8481356501579285, 0, -0.024522678926587105, 0);
 AZY["22"]["BackgroundTransparency"] = 1;
 
@@ -1830,7 +1830,7 @@ AZY["de"]["BackgroundColor3"] = Color3.fromRGB(71, 71, 71);
 AZY["de"]["ImageColor3"] = Color3.fromRGB(146, 0, 0);
 AZY["de"]["SliceScale"] = 0.11999999731779099;
 AZY["de"]["Selectable"] = true;
-AZY["de"]["Image"] = [[rbxassetid://3570695787]];
+AZY["de"]["Image"] = [[rbxassetid://14222798840]];
 AZY["de"]["Size"] = UDim2.new(0, 25, 1, 0);
 AZY["de"]["Active"] = true;
 AZY["de"]["Name"] = [[SliderButton]];
@@ -1850,7 +1850,7 @@ AZY["e0"]["ImageColor3"] = Color3.fromRGB(71, 71, 71);
 AZY["e0"]["SliceScale"] = 0.23999999463558197;
 AZY["e0"]["ImageTransparency"] = 1;
 AZY["e0"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
-AZY["e0"]["Image"] = [[rbxassetid://14174128141]];
+AZY["e0"]["Image"] = [[rbxassetid://14222798840]];
 AZY["e0"]["Size"] = UDim2.new(1, 12, 1, 12);
 AZY["e0"]["Name"] = [[Border]];
 AZY["e0"]["BackgroundTransparency"] = 0.6000000238418579;
@@ -1883,7 +1883,7 @@ AZY["e3"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.f
 -- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.HaxPage.WsS.ImageLabel
 AZY["e4"] = Instance.new("ImageLabel", AZY["dd"]);
 AZY["e4"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
-AZY["e4"]["Image"] = [[rbxassetid://12572149271]];
+AZY["e4"]["Image"] = [[rbxassetid://14222798840]];
 AZY["e4"]["Size"] = UDim2.new(0, 35, 0, 35);
 AZY["e4"]["Rotation"] = 90;
 AZY["e4"]["BackgroundTransparency"] = 1;
@@ -1917,7 +1917,7 @@ AZY["e6"]["BackgroundColor3"] = Color3.fromRGB(22, 22, 22);
 AZY["e6"]["ImageColor3"] = Color3.fromRGB(32, 32, 32);
 AZY["e6"]["Selectable"] = false;
 AZY["e6"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
-AZY["e6"]["Image"] = [[rbxassetid://3570695787]];
+AZY["e6"]["Image"] = [[rbxassetid://14222798840]];
 AZY["e6"]["Size"] = UDim2.new(0, 119, 0, 31);
 AZY["e6"]["Name"] = [[JpS]];
 AZY["e6"]["Rotation"] = -90;
@@ -2033,7 +2033,7 @@ AZY["f0"]["BackgroundColor3"] = Color3.fromRGB(71, 71, 71);
 AZY["f0"]["ImageColor3"] = Color3.fromRGB(146, 0, 0);
 AZY["f0"]["SliceScale"] = 0.11999999731779099;
 AZY["f0"]["Selectable"] = true;
-AZY["f0"]["Image"] = [[rbxassetid://3570695787]];
+AZY["f0"]["Image"] = [[rbxassetid://14222798840]];
 AZY["f0"]["Size"] = UDim2.new(0, 25, 1, 0);
 AZY["f0"]["Active"] = true;
 AZY["f0"]["Name"] = [[SliderButton]];
@@ -2121,7 +2121,7 @@ AZY["fa"]["Name"] = [[Ws]];
 
 -- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.Scripts
 AZY["fb"] = Instance.new("Folder", AZY["ce"]);
-AZY["fb"]["Name"] = [[Scripts]];
+AZY["fb"]["Name"] = [[脚本]];
 
 -- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.BuiltInHax.Scripts.Aimbot
 AZY["fc"] = Instance.new("TextButton", AZY["fb"]);
@@ -2369,7 +2369,7 @@ AZY["11a"]["BackgroundTransparency"] = 0.550000011920929;
 AZY["11a"]["Size"] = UDim2.new(0.831805408000946, 0, 0.7551097869873047, 0);
 AZY["11a"]["Position"] = UDim2.new(0.1409205049276352, 0, 0.20551720261573792, 0);
 AZY["11a"]["Visible"] = false;
-AZY["11a"]["Name"] = [[Executor]];
+AZY["11a"]["Name"] = [[恢复]];
 
 -- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.UICorner
 AZY["11b"] = Instance.new("UICorner", AZY["11a"]);
@@ -2383,7 +2383,7 @@ AZY["11c"]["TextSize"] = 18;
 AZY["11c"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
 AZY["11c"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 AZY["11c"]["Size"] = UDim2.new(0.22599999606609344, 0, 0.13500000536441803, 0);
-AZY["11c"]["Name"] = [[Execute]];
+AZY["11c"]["Name"] = [[执行]];
 AZY["11c"]["Text"] = [[Execute]];
 AZY["11c"]["Position"] = UDim2.new(0.026000000536441803, 0, 0.8319999575614929, 0);
 
@@ -2403,7 +2403,7 @@ AZY["11f"]["TextSize"] = 18;
 AZY["11f"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
 AZY["11f"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 AZY["11f"]["Size"] = UDim2.new(0.22599999606609344, 0, 0.13500000536441803, 0);
-AZY["11f"]["Name"] = [[Clear]];
+AZY["11f"]["Name"] = [[清除]];
 AZY["11f"]["Text"] = [[Clear]];
 AZY["11f"]["Position"] = UDim2.new(0.2630000114440918, 0, 0.8320000171661377, 0);
 
@@ -2423,7 +2423,7 @@ AZY["122"]["TextSize"] = 18;
 AZY["122"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
 AZY["122"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 AZY["122"]["Size"] = UDim2.new(0.22599999606609344, 0, 0.13500000536441803, 0);
-AZY["122"]["Name"] = [[Copy]];
+AZY["122"]["Name"] = [[复制]];
 AZY["122"]["Text"] = [[Copy]];
 AZY["122"]["Position"] = UDim2.new(0.5009999871253967, 0, 0.8320000171661377, 0);
 
@@ -2444,7 +2444,7 @@ AZY["125"]["TextSize"] = 18;
 AZY["125"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
 AZY["125"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 AZY["125"]["Size"] = UDim2.new(0.22599999606609344, 0, 0.13500000536441803, 0);
-AZY["125"]["Name"] = [[Paste]];
+AZY["125"]["Name"] = [[粘贴]];
 AZY["125"]["Text"] = [[Paste]];
 AZY["125"]["Position"] = UDim2.new(0.7360000014305115, 0, 0.8320000171661377, 0);
 
@@ -2605,7 +2605,7 @@ AZY["13c"]["PaddingLeft"] = UDim.new(0, 30);
 -- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Executor.TextboxBar.LocalScript.ScriptEditor.Editor.Scroll.Source.Suggestion.Icon
 AZY["13d"] = Instance.new("ImageLabel", AZY["13b"]);
 AZY["13d"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
-AZY["13d"]["Image"] = [[rbxassetid://413365069]];
+AZY["13d"]["Image"] = [[rbxassetid://14222798840]];
 AZY["13d"]["Size"] = UDim2.new(0, 26, 0, 26);
 AZY["13d"]["Name"] = [[Icon]];
 AZY["13d"]["BackgroundTransparency"] = 1;
