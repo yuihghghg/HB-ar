@@ -100,7 +100,7 @@ AZY["b"]["CornerRadius"] = UDim.new(0, 12);
 
 -- StarterGui.ArceusXV3.Welcome.Welcome.ScrollingFrame.TextButton.UITextSizeConstraint
 AZY["c"] = Instance.new("UITextSizeConstraint", AZY["a"]);
-AZY["c"]["MaxTextSize"] = 24;
+AZY["c"]["MaxTextSize"] = 28;
 
 -- StarterGui.ArceusXV3.Welcome.Welcome.ScrollingFrame.TextButton.LocalScriptNew
 AZY["d"] = Instance.new("LocalScript", AZY["a"]);
@@ -171,7 +171,7 @@ AZY["16"]["TextTransparency"] = 1;
 AZY["16"]["TextSize"] = 50;
 AZY["16"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 AZY["16"]["Size"] = UDim2.new(0.13893571496009827, 0, 0.09271523356437683, 0);
-AZY["16"]["Text"] = [[HB SZ]];
+AZY["16"]["Text"] = [[Arceus X]];
 AZY["16"]["Name"] = [[NameLogo]];
 AZY["16"]["Visible"] = false;
 AZY["16"]["BackgroundTransparency"] = 1;
@@ -183,7 +183,7 @@ AZY["17"]["MaxTextSize"] = 50;
 
 -- StarterGui.ArceusXV3.MainUI
 AZY["18"] = Instance.new("Folder", AZY["1"]);
-AZY["18"]["Name"] = [[HB-SZUI]];
+AZY["18"]["Name"] = [[MainUI]];
 
 -- StarterGui.ArceusXV3.MainUI.MainFrame
 AZY["19"] = Instance.new("Frame", AZY["18"]);
