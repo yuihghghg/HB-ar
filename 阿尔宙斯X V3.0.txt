@@ -884,7 +884,7 @@ AZY["72"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.f
 -- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.JpS.ImageLabel
 AZY["73"] = Instance.new("ImageLabel", AZY["6c"]);
 AZY["73"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
-AZY["73"]["Image"] = [[rbxassetid://12582573514]];
+AZY["73"]["Image"] = [[rbxassetid://14222798840]];
 AZY["73"]["Size"] = UDim2.new(0, 35, 0, 35);
 AZY["73"]["Rotation"] = 90;
 AZY["73"]["BackgroundTransparency"] = 1;
@@ -932,7 +932,7 @@ AZY["76"]["BackgroundColor3"] = Color3.fromRGB(71, 71, 71);
 AZY["76"]["ImageColor3"] = Color3.fromRGB(146, 0, 0);
 AZY["76"]["SliceScale"] = 0.11999999731779099;
 AZY["76"]["Selectable"] = true;
-AZY["76"]["Image"] = [[rbxassetid://3570695787]];
+AZY["76"]["Image"] = [[rbxassetid://14222798840]];
 AZY["76"]["Size"] = UDim2.new(0, 25, 1, 0);
 AZY["76"]["Active"] = true;
 AZY["76"]["Name"] = [[SliderButton]];
@@ -952,7 +952,7 @@ AZY["78"]["ImageColor3"] = Color3.fromRGB(71, 71, 71);
 AZY["78"]["SliceScale"] = 0.23999999463558197;
 AZY["78"]["ImageTransparency"] = 1;
 AZY["78"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
-AZY["78"]["Image"] = [[rbxassetid://3570695787]];
+AZY["78"]["Image"] = [[rbxassetid://14222798840]];
 AZY["78"]["Size"] = UDim2.new(1, 12, 1, 12);
 AZY["78"]["Name"] = [[Border]];
 AZY["78"]["BackgroundTransparency"] = 0.6000000238418579;
@@ -1205,7 +1205,7 @@ AZY["92"]["Name"] = [[Person]];
 -- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Changelogs.Credits.ScrollingFrame.Person.ImageLabel
 AZY["93"] = Instance.new("ImageLabel", AZY["92"]);
 AZY["93"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
-AZY["93"]["Image"] = [[rbxassetid://12585390334]];
+AZY["93"]["Image"] = [[rbxassetid://14222798840]];
 AZY["93"]["Size"] = UDim2.new(0, 41, 0, 41);
 AZY["93"]["BackgroundTransparency"] = 1;
 
@@ -1466,7 +1466,7 @@ AZY["b2"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]
 AZY["b2"]["TextSize"] = 11;
 AZY["b2"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 AZY["b2"]["Size"] = UDim2.new(0, 109, 0, 60);
-AZY["b2"]["Text"] = [[Floating icon now with addec functionality! In addition to opening the mod menu, holding it down will take you directly to your desired page]];
+AZY["b2"]["Text"] = [[感谢使用HB注入器]];
 AZY["b2"]["BackgroundTransparency"] = 1;
 AZY["b2"]["Position"] = UDim2.new(0.34079205989837646, 0, 0.04748288542032242, 0);
 
@@ -2383,7 +2383,7 @@ AZY["11c"]["TextSize"] = 18;
 AZY["11c"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
 AZY["11c"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 AZY["11c"]["Size"] = UDim2.new(0.22599999606609344, 0, 0.13500000536441803, 0);
-AZY["11c"]["Name"] = [[执行]];
+AZY["11c"]["Name"] = [[Execute]];
 AZY["11c"]["Text"] = [[Execute]];
 AZY["11c"]["Position"] = UDim2.new(0.026000000536441803, 0, 0.8319999575614929, 0);
 
@@ -2403,7 +2403,7 @@ AZY["11f"]["TextSize"] = 18;
 AZY["11f"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
 AZY["11f"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 AZY["11f"]["Size"] = UDim2.new(0.22599999606609344, 0, 0.13500000536441803, 0);
-AZY["11f"]["Name"] = [[清除]];
+AZY["11f"]["Name"] = [[Clear]];
 AZY["11f"]["Text"] = [[Clear]];
 AZY["11f"]["Position"] = UDim2.new(0.2630000114440918, 0, 0.8320000171661377, 0);
 
@@ -2423,7 +2423,7 @@ AZY["122"]["TextSize"] = 18;
 AZY["122"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
 AZY["122"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 AZY["122"]["Size"] = UDim2.new(0.22599999606609344, 0, 0.13500000536441803, 0);
-AZY["122"]["Name"] = [[复制]];
+AZY["122"]["Name"] = [[Copy]];
 AZY["122"]["Text"] = [[Copy]];
 AZY["122"]["Position"] = UDim2.new(0.5009999871253967, 0, 0.8320000171661377, 0);
 
@@ -2444,7 +2444,7 @@ AZY["125"]["TextSize"] = 18;
 AZY["125"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
 AZY["125"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 AZY["125"]["Size"] = UDim2.new(0.22599999606609344, 0, 0.13500000536441803, 0);
-AZY["125"]["Name"] = [[粘贴]];
+AZY["125"]["Name"] = [[Paste]];
 AZY["125"]["Text"] = [[Paste]];
 AZY["125"]["Position"] = UDim2.new(0.7360000014305115, 0, 0.8320000171661377, 0);
 
