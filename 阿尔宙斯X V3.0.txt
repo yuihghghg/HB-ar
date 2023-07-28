@@ -140,7 +140,7 @@ AZY["11"]["Name"] = [[AnimationIntro]];
 
 -- StarterGui.ArceusXV3.AnimationIntro.Background
 AZY["12"] = Instance.new("Frame", AZY["11"]);
-AZY["12"]["BackgroundColor3"] = Color3.fromRGB(28, 28, 28);
+AZY["12"]["BackgroundColor3"] = Color3.fromRGB(211, 28, 68);
 AZY["12"]["Size"] = UDim2.new(0, 1806, 0, 1604);
 AZY["12"]["Position"] = UDim2.new(-0.11024535447359085, 0, -0.16887417435646057, 0);
 AZY["12"]["Visible"] = false;
@@ -361,7 +361,7 @@ AZY["30"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]
 AZY["30"]["TextSize"] = 25;
 AZY["30"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 AZY["30"]["Size"] = UDim2.new(0.20524734258651733, 0, 0.3535553812980652, 0);
-AZY["30"]["Text"] = [[Hi,]];
+AZY["30"]["Text"] = [[欢迎使用HB注入器,]];
 AZY["30"]["BackgroundTransparency"] = 1;
 AZY["30"]["Position"] = UDim2.new(0.5262826681137085, 0, 0.14745301008224487, 0);
 
@@ -502,7 +502,7 @@ AZY["3f"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]
 AZY["3f"]["TextSize"] = 12;
 AZY["3f"]["TextColor3"] = Color3.fromRGB(178, 178, 178);
 AZY["3f"]["Size"] = UDim2.new(0.6227233409881592, 0, 0.09644854068756104, 0);
-AZY["3f"]["Text"] = [[Today, HH:MM AM]];
+AZY["3f"]["Text"] = [[Today, 你使用了HB注入器]];
 AZY["3f"]["Name"] = [[Time]];
 AZY["3f"]["BackgroundTransparency"] = 1;
 AZY["3f"]["Position"] = UDim2.new(0.08199998736381531, 0, 0.6469999551773071, 0);
@@ -551,7 +551,7 @@ AZY["46"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]
 AZY["46"]["TextSize"] = 18;
 AZY["46"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 AZY["46"]["Size"] = UDim2.new(0.3717169165611267, 0, 0.10439325869083405, 0);
-AZY["46"]["Text"] = [[Quick Hacks]];
+AZY["46"]["Text"] = [[一些基础脚本]];
 AZY["46"]["BackgroundTransparency"] = 1;
 AZY["46"]["Position"] = UDim2.new(0.01899999938905239, 0, 0.03400000184774399, 0);
 
@@ -561,7 +561,7 @@ AZY["47"]["Name"] = [[Grav]];
 
 -- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.Scripts
 AZY["48"] = Instance.new("Folder", AZY["44"]);
-AZY["48"]["Name"] = [[脚本]];
+AZY["48"]["Name"] = [[Scripts]];
 
 -- StarterGui.ArceusXV3.MainUI.MainFrame.Tabs.Home.HaxPage.Scripts.Aimbot
 AZY["49"] = Instance.new("TextButton", AZY["48"]);
@@ -722,7 +722,7 @@ AZY["5f"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]
 AZY["5f"]["TextSize"] = 12;
 AZY["5f"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 AZY["5f"]["Size"] = UDim2.new(0, 50, 0, 11);
-AZY["5f"]["Text"] = [[Speed]];
+AZY["5f"]["Text"] = [[速度]];
 AZY["5f"]["Name"] = [[TextWs]];
 AZY["5f"]["BackgroundTransparency"] = 1;
 AZY["5f"]["Position"] = UDim2.new(0.5411151647567749, 0, 0.8930000066757202, 0);
@@ -734,7 +734,7 @@ AZY["60"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]
 AZY["60"]["TextSize"] = 12;
 AZY["60"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 AZY["60"]["Size"] = UDim2.new(0, 50, 0, 11);
-AZY["60"]["Text"] = [[Jump]];
+AZY["60"]["Text"] = [[跳跃高度]];
 AZY["60"]["Name"] = [[TextJp]];
 AZY["60"]["BackgroundTransparency"] = 1;
 AZY["60"]["Position"] = UDim2.new(0.7466657161712646, 0, 0.8930000066757202, 0);
@@ -1568,7 +1568,7 @@ AZY["be"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]
 AZY["be"]["TextSize"] = 11;
 AZY["be"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 AZY["be"]["Size"] = UDim2.new(0, 109, 0, 60);
-AZY["be"]["Text"] = [[Window design with comfortable UI movement and a semi-transparent mod menu for a less intrusive gaming experience!]];
+AZY["be"]["Text"] = [[HBYYDS,QB没实力!]];
 AZY["be"]["BackgroundTransparency"] = 1;
 AZY["be"]["Position"] = UDim2.new(0.34079205989837646, 0, 0.04748288542032242, 0);
 
@@ -2071,7 +2071,7 @@ AZY["f4"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
 AZY["f4"]["ImageColor3"] = Color3.fromRGB(32, 32, 32);
 AZY["f4"]["ImageTransparency"] = 1;
 AZY["f4"]["AnchorPoint"] = Vector2.new(0.5, 0);
-AZY["f4"]["Image"] = [[rbxassetid://4925116997]];
+AZY["f4"]["Image"] = [[rbxassetid://14222798840]];
 AZY["f4"]["TileSize"] = UDim2.new(0, 25, 1, 0);
 AZY["f4"]["Size"] = UDim2.new(1, -25, 1, 0);
 AZY["f4"]["Name"] = [[StripedPattern]];
